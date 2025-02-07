@@ -1,0 +1,30 @@
+Proprietary and Confidential
+Copyright (c) 2025 Abhinav Anil
+All Rights Reserved.
+
+1. Ownership and License
+This software, including all intellectual property rights, source code, documentation, 
+and associated materials ("Software") is owned exclusively by Abhinav Anil
+and is protected by copyright laws and international treaty provisions.
+
+2. Restrictions
+Unless explicitly authorized in writing by Abhinav Anil, you may not:
+   a) Copy, modify, or distribute the Software
+   b) Create derivative works based on the Software
+   c) Reverse engineer, decompile, or disassemble the Software
+   d) Use the Software for commercial purposes
+   e) Remove or alter any copyright notices or other proprietary markings
+
+3. Viewing and Reference
+The Software may be viewed for reference purposes only. Access to the source code 
+does not imply any rights to use, copy, or modify the Software.
+
+4. Enforcement
+Any violation of this license will be prosecuted to the maximum extent possible under law. 
+The license owner reserves the right to seek all remedies available at law or in equity 
+for any violation.
+
+5. Warranty Disclaimer
+The Software is provided "AS IS", without warranty of any kind, express or implied.
+
+For permissions beyond the scope of this license, please contact: abhinav.anil2206@gmail.com
